@@ -46,5 +46,5 @@ describe('The Oscars awards', () => {
     .should('have.text', 'Jessica Chastain')
 
 
-})
+        })
 })
